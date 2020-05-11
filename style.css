@@ -1,0 +1,40 @@
+#header-div {
+    color:black;
+    background-color: white;
+    font-family:Lobster, sans-serif;
+/*                font-family: monospace;*/
+    text-align: center;
+    padding:5px;
+    margin: 30px 20px 30px 20px;
+}
+            
+body {
+    font-family: monospace;
+    background-color: #1e5f60;
+    color: white;
+}
+            
+.solid-black-border {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 50%;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+}
+
+h2 {
+    font-family:Lobster, sans-serif;
+    text-align: center;
+}
+
+/*
+#contactme {
+    margin-bottom: 5px;
+}*/
